@@ -1,0 +1,14 @@
+
+------------Financial Analysis--------------
+
+-------------------------------------------
+
+total month:             86
+
+net amount profit/loss:  38382578
+
+average change:          421574.9534883721
+
+greatest increase:        2064109
+
+greatest decrease:       -4596
